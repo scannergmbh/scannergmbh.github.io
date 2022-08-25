@@ -1,4 +1,4 @@
-# GH Pages Site (No Jekyll)
+# xGH Pages Site (No Jekyll)
 > Template for a Markdown-based docs site hosted on GH Pages
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/gh-pages-no-jekyll?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/gh-pages-no-jekyll/releases/)
